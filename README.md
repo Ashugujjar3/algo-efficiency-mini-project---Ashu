@@ -122,6 +122,7 @@ A final table summarizes complexities and characteristics of all algorithms:
 📄 File Included
 
 Lab_Assignment_1_Algo_report.pdf — Full documentation, outputs, complexity plots, and code execution results.
+Algorithm_Analysis.ipynb
 
 🧠 Purpose
 
