@@ -117,15 +117,8 @@ Very fast in practice; unstable but widely used.
 
 A final table summarizes complexities and characteristics of all algorithms:
 
-Algorithm	Time Complexity	Space Complexity	Remarks
-Fibonacci (Recursive)	O(2ⁿ)	O(n)	Very slow for large n
-Fibonacci (DP)	O(n)	O(n)	Efficient, uses memoization
-Merge Sort	O(n log n)	O(n)	Stable, predictable performance
-Quick Sort	O(n log n)	O(log n)	Fast but not stable
-Insertion Sort	O(n²)	O(1)	Good for small inputs
-Bubble Sort	O(n²)	O(1)	Simple but inefficient
-Selection Sort	O(n²)	O(1)	In-place, deterministic
-Binary Search	O(log n)	O(1)	Requires sorted input
+<img width="489" height="316" alt="image" src="https://github.com/user-attachments/assets/897b1229-c263-44ae-845c-2100e673cc89" />
+
 📄 File Included
 
 Lab_Assignment_1_Algo_report.pdf — Full documentation, outputs, complexity plots, and code execution results.
